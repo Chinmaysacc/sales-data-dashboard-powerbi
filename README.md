@@ -13,7 +13,7 @@ The objective of this project is to analyze a sales dataset, clean and preproces
 | `Data_Cleaning.ipynb`              | Jupyter Notebook used to clean the original dataset using Python (handled nulls, fixed data types, etc.) |
 | `Cleaned_Sales_By_Region.csv`      | Final cleaned dataset ready for use in Power BI |
 | `Dashboard.pdf`                    | Exported view of the Power BI dashboard showing various sales and profit insights |
-| `INSIGHTS OF SALES DASHBOARD.txt` | Contains a summary of key insights derived from the dashboard visuals |
+| `INSIGHTS OF SALES DASHBOARD.pdf` | Contains a summary of key insights derived from the dashboard visuals |
 
 ---
 
